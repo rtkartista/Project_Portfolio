@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Ritika Avadhanula
+### MS in Robotics
+### BTech in Aerospace Engineering
 
 You can use the [editor on GitHub](https://github.com/rtkartista/website-rtk-projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
